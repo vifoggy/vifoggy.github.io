@@ -6,6 +6,6 @@ author_name: Jesse
 author_uri: http://aboutme.com/zengyuxing
 ---
 
-p=. !/images/posts/2013-12-06/vi-panic.jpg(Don't be panic)!
+p=. !/images/posts/2013-12-06/vi-panic.png(Don't be panic)!
 
 i am sbv!!!
