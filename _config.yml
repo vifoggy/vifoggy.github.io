@@ -2,4 +2,4 @@ permalink: pretty
 paginate: 10
 exclude: ['Rakefile', 'Gemfile', 'Gemfile.lock', 'config.rb', 'run']
 
-production_url: http://vifoggy.github.io
+production_url: http://vifoggy.com
