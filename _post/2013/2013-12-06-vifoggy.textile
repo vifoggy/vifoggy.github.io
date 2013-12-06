@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vifoggy's first article"
-tags: [vifoggy, first,article]
+tags: [vifoggy,first,article]
 author_name: Jesse 
 author_uri: http://aboutme.com/zengyuxing
 ---
